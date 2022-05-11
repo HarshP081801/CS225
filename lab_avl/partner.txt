@@ -1,0 +1,2 @@
+NET_ID1 = harshbp2
+NET_ID2 = alexmc2
